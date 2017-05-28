@@ -1,0 +1,18 @@
+*:focus {
+outline: none;
+}
+
+label
+{
+    display: block;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="email"], textarea, select {
+    background-color: #2b4a64;
+    color: #fff;
+    width: 300px;
+    maring-bottom: 20px;
+}
+
